@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo [
+    <!ELEMENT catalogo (titulo, item+, fecha?, responsable)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT item (duracion*, genero+, year*, nombre+)>
+    <!ELEMENT duracion (#PCDATA)>
+    <!ELEMENT genero (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT fecha (#PCDATA)>
+    <!ELEMENT responsable (#PCDATA)>
+]>
+<catalogo>
+    <titulo>Catálogo de películas</titulo>
+    <item>
+        <duracion>Largometraje</duracion>
+        <genero>Ciencia Ficción</genero>
+        <year>2017</year>
+        <nombre>Logan</nombre>
+    </item>
+    <item>
+        <duracion>Cortometraje</duracion>
+        <genero>Animación</genero>
+        <year>2016</year>
+        <nombre>A bear story</nombre>
+    </item>
+    <fecha>18 de septiembre de 2023</fecha>
+    <responsable>Guillermo Vera Amaro</responsable>
+</catalogo>

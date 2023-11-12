@@ -1,0 +1,3339 @@
+[
+    {
+        "id": 21408,
+        "date": "2023-09-22T21:09:57",
+        "date_gmt": "2023-09-23T02:09:57",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21408"
+        },
+        "modified": "2023-09-22T21:09:57",
+        "modified_gmt": "2023-09-23T02:09:57",
+        "slug": "convocatoria-representantes-alumnos-por-programa-educativo-2",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-representantes-alumnos-por-programa-educativo-2\/",
+        "title": {
+            "rendered": "Convocatoria Representantes Alumnos por programa educativo"
+        },
+        "featured_media": 21409,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/convocatoria-representantes-alumnos-por-programa-educativo-2\/",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21408"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21409"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21408"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21409,
+                    "date": "2023-09-22T21:09:40",
+                    "slug": "repres-alum",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-representantes-alumnos-por-programa-educativo-2\/attachment\/repres-alum\/",
+                    "title": {
+                        "rendered": "repres-alum"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1603,
+                        "height": 494,
+                        "file": "2023\/09\/repres-alum.png",
+                        "filesize": 93465,
+                        "sizes": {
+                            "medium": {
+                                "file": "repres-alum-300x92.png",
+                                "width": 300,
+                                "height": 92,
+                                "filesize": 13164,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum-300x92.png"
+                            },
+                            "large": {
+                                "file": "repres-alum-1024x316.png",
+                                "width": 1024,
+                                "height": 316,
+                                "filesize": 71830,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum-1024x316.png"
+                            },
+                            "thumbnail": {
+                                "file": "repres-alum-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 9633,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "repres-alum-768x237.png",
+                                "width": 768,
+                                "height": 237,
+                                "filesize": 48676,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum-768x237.png"
+                            },
+                            "avisos-lg": {
+                                "file": "repres-alum-1600x494.png",
+                                "width": 1600,
+                                "height": 494,
+                                "filesize": 84605,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum-1600x494.png"
+                            },
+                            "avisos-preview": {
+                                "file": "repres-alum-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 2929,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "repres-alum-1536x473.png",
+                                "width": 1536,
+                                "height": 473,
+                                "filesize": 120406,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum-1536x473.png"
+                            },
+                            "full": {
+                                "file": "repres-alum.png",
+                                "width": 1603,
+                                "height": 494,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/repres-alum.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21409"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21409"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21385,
+        "date": "2023-09-15T10:56:18",
+        "date_gmt": "2023-09-15T15:56:18",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21385"
+        },
+        "modified": "2023-09-15T10:56:18",
+        "modified_gmt": "2023-09-15T15:56:18",
+        "slug": "2a-semana-estatal-de-ciencia-y-tecnologia-veracruz-2023",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/2a-semana-estatal-de-ciencia-y-tecnologia-veracruz-2023\/",
+        "title": {
+            "rendered": "2\u00aa Semana Estatal de Ciencia y Tecnolog\u00eda Veracruz 2023"
+        },
+        "featured_media": 21386,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/2a-semana-estatal-de-ciencia-y-tecnologia-veracruz-2023",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": "Si",
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21385"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21386"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21385"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21386,
+                    "date": "2023-09-15T10:55:52",
+                    "slug": "bannersemanacytec",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/2a-semana-estatal-de-ciencia-y-tecnologia-veracruz-2023\/attachment\/bannersemanacytec\/",
+                    "title": {
+                        "rendered": "BannerSemanaCyTec"
+                    },
+                    "author": 1831,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1600,
+                        "height": 550,
+                        "file": "2023\/09\/BannerSemanaCyTec.png",
+                        "filesize": 880002,
+                        "sizes": {
+                            "medium": {
+                                "file": "BannerSemanaCyTec-300x103.png",
+                                "width": 300,
+                                "height": 103,
+                                "filesize": 44006,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec-300x103.png"
+                            },
+                            "large": {
+                                "file": "BannerSemanaCyTec-1024x352.png",
+                                "width": 1024,
+                                "height": 352,
+                                "filesize": 287713,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec-1024x352.png"
+                            },
+                            "thumbnail": {
+                                "file": "BannerSemanaCyTec-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 32172,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "BannerSemanaCyTec-768x264.png",
+                                "width": 768,
+                                "height": 264,
+                                "filesize": 179246,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec-768x264.png"
+                            },
+                            "avisos-preview": {
+                                "file": "BannerSemanaCyTec-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 10244,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "BannerSemanaCyTec-1536x528.png",
+                                "width": 1536,
+                                "height": 528,
+                                "filesize": 588160,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec-1536x528.png"
+                            },
+                            "full": {
+                                "file": "BannerSemanaCyTec.png",
+                                "width": 1600,
+                                "height": 550,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/BannerSemanaCyTec.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21386"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1831"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21386"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21378,
+        "date": "2023-09-14T21:03:30",
+        "date_gmt": "2023-09-15T02:03:30",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21378"
+        },
+        "modified": "2023-09-14T21:03:30",
+        "modified_gmt": "2023-09-15T02:03:30",
+        "slug": "pago-de-becas-escolares-por-continuidad",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/pago-de-becas-escolares-por-continuidad\/",
+        "title": {
+            "rendered": "Pago de becas escolares por continuidad"
+        },
+        "featured_media": 0,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/estudiantes\/tramites-y-servicios\/pago-continuidad-beca-escolar-2023\/",
+            "extracto": "",
+            "imagen_halign": "0",
+            "imagen_valign": "0",
+            "bg_size": "cover",
+            "text_hide": null,
+            "media_url": "",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21378"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21378"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 21375,
+        "date": "2023-09-14T18:30:59",
+        "date_gmt": "2023-09-14T23:30:59",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21375"
+        },
+        "modified": "2023-09-14T18:30:59",
+        "modified_gmt": "2023-09-14T23:30:59",
+        "slug": "atencion-estudiantes",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/atencion-estudiantes\/",
+        "title": {
+            "rendered": "Atenci\u00f3n Estudiantes"
+        },
+        "featured_media": 21376,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/fichas-escolares-subes-del-periodo-agosto-2023-enero-2024\/",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21375"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21376"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21375"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21376,
+                    "date": "2023-09-14T18:30:35",
+                    "slug": "aviso-actualizacion-fichas-subes-2023-2",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/atencion-estudiantes\/attachment\/aviso-actualizacion-fichas-subes-2023-2\/",
+                    "title": {
+                        "rendered": "aviso-actualizacion-fichas-subes-2023-2"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1600,
+                        "height": 550,
+                        "file": "2023\/09\/aviso-actualizacion-fichas-subes-2023-2.png",
+                        "filesize": 101449,
+                        "sizes": {
+                            "medium": {
+                                "file": "aviso-actualizacion-fichas-subes-2023-2-300x103.png",
+                                "width": 300,
+                                "height": 103,
+                                "filesize": 12403,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2-300x103.png"
+                            },
+                            "large": {
+                                "file": "aviso-actualizacion-fichas-subes-2023-2-1024x352.png",
+                                "width": 1024,
+                                "height": 352,
+                                "filesize": 64981,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2-1024x352.png"
+                            },
+                            "thumbnail": {
+                                "file": "aviso-actualizacion-fichas-subes-2023-2-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 7336,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "aviso-actualizacion-fichas-subes-2023-2-768x264.png",
+                                "width": 768,
+                                "height": 264,
+                                "filesize": 45070,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2-768x264.png"
+                            },
+                            "avisos-preview": {
+                                "file": "aviso-actualizacion-fichas-subes-2023-2-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 2432,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "aviso-actualizacion-fichas-subes-2023-2-1536x528.png",
+                                "width": 1536,
+                                "height": 528,
+                                "filesize": 108290,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2-1536x528.png"
+                            },
+                            "full": {
+                                "file": "aviso-actualizacion-fichas-subes-2023-2.png",
+                                "width": 1600,
+                                "height": 550,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-actualizacion-fichas-subes-2023-2.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21376"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21376"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21368,
+        "date": "2023-09-13T18:35:10",
+        "date_gmt": "2023-09-13T23:35:10",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21368"
+        },
+        "modified": "2023-09-13T18:35:10",
+        "modified_gmt": "2023-09-13T23:35:10",
+        "slug": "invitacion-2",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/invitacion-2\/",
+        "title": {
+            "rendered": "Invitaci\u00f3n"
+        },
+        "featured_media": 21369,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/seminario-de-investigacion-y-difusion-tecnologica-en-ciencias-de-la-computacion\/",
+            "extracto": "Seminario DCC",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21368"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21369"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21368"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21369,
+                    "date": "2023-09-13T18:34:30",
+                    "slug": "dcc1",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/invitacion-2\/attachment\/dcc1\/",
+                    "title": {
+                        "rendered": "dcc1"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1586,
+                        "height": 584,
+                        "file": "2023\/09\/dcc1.png",
+                        "filesize": 301308,
+                        "sizes": {
+                            "medium": {
+                                "file": "dcc1-300x110.png",
+                                "width": 300,
+                                "height": 110,
+                                "filesize": 24182,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1-300x110.png"
+                            },
+                            "large": {
+                                "file": "dcc1-1024x377.png",
+                                "width": 1024,
+                                "height": 377,
+                                "filesize": 169389,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1-1024x377.png"
+                            },
+                            "thumbnail": {
+                                "file": "dcc1-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 17694,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "dcc1-768x283.png",
+                                "width": 768,
+                                "height": 283,
+                                "filesize": 108716,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1-768x283.png"
+                            },
+                            "avisos-lg": {
+                                "file": "dcc1-1586x550.png",
+                                "width": 1586,
+                                "height": 550,
+                                "filesize": 297743,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1-1586x550.png"
+                            },
+                            "avisos-preview": {
+                                "file": "dcc1-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 4904,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "dcc1-1536x566.png",
+                                "width": 1536,
+                                "height": 566,
+                                "filesize": 321087,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1-1536x566.png"
+                            },
+                            "full": {
+                                "file": "dcc1.png",
+                                "width": 1586,
+                                "height": 584,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/dcc1.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21369"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21369"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21353,
+        "date": "2023-09-06T19:48:01",
+        "date_gmt": "2023-09-07T00:48:01",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21353"
+        },
+        "modified": "2023-09-06T19:48:01",
+        "modified_gmt": "2023-09-07T00:48:01",
+        "slug": "aviso-sobre-el-seguro-facultativo",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/aviso-sobre-el-seguro-facultativo\/",
+        "title": {
+            "rendered": "Aviso sobre el Seguro Facultativo"
+        },
+        "featured_media": 21354,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/estudiantes\/general\/aviso-sobre-el-seguro-facultativo\/",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21353"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21354"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21353"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21354,
+                    "date": "2023-09-06T19:47:29",
+                    "slug": "aviso-sobre-seguro-facultativo-01",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/aviso-sobre-el-seguro-facultativo\/attachment\/aviso-sobre-seguro-facultativo-01\/",
+                    "title": {
+                        "rendered": "aviso-sobre-seguro-facultativo-01"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1600,
+                        "height": 550,
+                        "file": "2023\/09\/aviso-sobre-seguro-facultativo-01.png",
+                        "filesize": 409531,
+                        "sizes": {
+                            "medium": {
+                                "file": "aviso-sobre-seguro-facultativo-01-300x103.png",
+                                "width": 300,
+                                "height": 103,
+                                "filesize": 29507,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01-300x103.png"
+                            },
+                            "large": {
+                                "file": "aviso-sobre-seguro-facultativo-01-1024x352.png",
+                                "width": 1024,
+                                "height": 352,
+                                "filesize": 206291,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01-1024x352.png"
+                            },
+                            "thumbnail": {
+                                "file": "aviso-sobre-seguro-facultativo-01-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 16255,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "aviso-sobre-seguro-facultativo-01-768x264.png",
+                                "width": 768,
+                                "height": 264,
+                                "filesize": 132451,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01-768x264.png"
+                            },
+                            "avisos-preview": {
+                                "file": "aviso-sobre-seguro-facultativo-01-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 5271,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "aviso-sobre-seguro-facultativo-01-1536x528.png",
+                                "width": 1536,
+                                "height": 528,
+                                "filesize": 376028,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01-1536x528.png"
+                            },
+                            "full": {
+                                "file": "aviso-sobre-seguro-facultativo-01.png",
+                                "width": 1600,
+                                "height": 550,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/09\/aviso-sobre-seguro-facultativo-01.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21354"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21354"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21352,
+        "date": "2023-09-06T15:48:56",
+        "date_gmt": "2023-09-06T20:48:56",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21352"
+        },
+        "modified": "2023-09-06T15:48:56",
+        "modified_gmt": "2023-09-06T20:48:56",
+        "slug": "convocatoria-de-ingreso-a-posgrado-ii",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-de-ingreso-a-posgrado-ii\/",
+        "title": {
+            "rendered": "Convocatoria de Ingreso a Posgrado-II"
+        },
+        "featured_media": 0,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/escolar\/posgrado2023-2\/index.html",
+            "extracto": "Convocatoria de Ingreso a Posgrado-II",
+            "imagen_halign": "0",
+            "imagen_valign": "0",
+            "bg_size": "cover",
+            "text_hide": "Si",
+            "media_url": "",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21352"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21352"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 21298,
+        "date": "2023-08-26T22:08:45",
+        "date_gmt": "2023-08-27T03:08:45",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21298"
+        },
+        "modified": "2023-08-27T00:21:15",
+        "modified_gmt": "2023-08-27T05:21:15",
+        "slug": "esquela-mtro-julian-felipe",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/esquela-mtro-julian-felipe\/",
+        "title": {
+            "rendered": "esquela mtro Julian Felipe"
+        },
+        "featured_media": 21299,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/esquela\/",
+            "extracto": "",
+            "imagen_halign": "0",
+            "imagen_valign": "0",
+            "bg_size": "contain",
+            "text_hide": "Si",
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe.jpg",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21298"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21299"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21298"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21299,
+                    "date": "2023-08-26T22:08:37",
+                    "slug": "esquelamtrofelipe",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/esquela-mtro-julian-felipe\/attachment\/esquelamtrofelipe\/",
+                    "title": {
+                        "rendered": "esquelaMtroFelipe"
+                    },
+                    "author": 2422,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/jpeg",
+                    "media_details": {
+                        "width": 1600,
+                        "height": 550,
+                        "file": "2023\/08\/esquelaMtroFelipe.jpg",
+                        "filesize": 161575,
+                        "sizes": {
+                            "medium": {
+                                "file": "esquelaMtroFelipe-300x103.jpg",
+                                "width": 300,
+                                "height": 103,
+                                "filesize": 7549,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe-300x103.jpg"
+                            },
+                            "large": {
+                                "file": "esquelaMtroFelipe-1024x352.jpg",
+                                "width": 1024,
+                                "height": 352,
+                                "filesize": 59739,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe-1024x352.jpg"
+                            },
+                            "thumbnail": {
+                                "file": "esquelaMtroFelipe-150x150.jpg",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 6514,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe-150x150.jpg"
+                            },
+                            "medium_large": {
+                                "file": "esquelaMtroFelipe-768x264.jpg",
+                                "width": 768,
+                                "height": 264,
+                                "filesize": 39492,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe-768x264.jpg"
+                            },
+                            "avisos-preview": {
+                                "file": "esquelaMtroFelipe-83x55.jpg",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 1460,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe-83x55.jpg"
+                            },
+                            "1536x1536": {
+                                "file": "esquelaMtroFelipe-1536x528.jpg",
+                                "width": 1536,
+                                "height": 528,
+                                "filesize": 105105,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe-1536x528.jpg"
+                            },
+                            "full": {
+                                "file": "esquelaMtroFelipe.jpg",
+                                "width": 1600,
+                                "height": 550,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe.jpg"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/esquelaMtroFelipe.jpg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21299"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/2422"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21299"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21296,
+        "date": "2023-08-25T20:32:29",
+        "date_gmt": "2023-08-26T01:32:29",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21296"
+        },
+        "modified": "2023-08-25T20:34:30",
+        "modified_gmt": "2023-08-26T01:34:30",
+        "slug": "convocatoria-3",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-3\/",
+        "title": {
+            "rendered": "Convocatoria"
+        },
+        "featured_media": 21297,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/estudiantes\/convocatoria-apoyos\/",
+            "extracto": "Plan de Apoyos a Poblaci\u00f3n Estudiantil en Condiciones de Vulnerabilidad",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21296"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21297"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21296"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21297,
+                    "date": "2023-08-25T20:34:23",
+                    "slug": "plan-paz-1",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-3\/attachment\/plan-paz-1\/",
+                    "title": {
+                        "rendered": "plan-paz-1"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1587,
+                        "height": 529,
+                        "file": "2023\/08\/plan-paz-1.png",
+                        "filesize": 1350031,
+                        "sizes": {
+                            "medium": {
+                                "file": "plan-paz-1-300x100.png",
+                                "width": 300,
+                                "height": 100,
+                                "filesize": 42963,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1-300x100.png"
+                            },
+                            "large": {
+                                "file": "plan-paz-1-1024x341.png",
+                                "width": 1024,
+                                "height": 341,
+                                "filesize": 382766,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1-1024x341.png"
+                            },
+                            "thumbnail": {
+                                "file": "plan-paz-1-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 31357,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "plan-paz-1-768x256.png",
+                                "width": 768,
+                                "height": 256,
+                                "filesize": 232607,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1-768x256.png"
+                            },
+                            "avisos-preview": {
+                                "file": "plan-paz-1-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 7721,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "plan-paz-1-1536x512.png",
+                                "width": 1536,
+                                "height": 512,
+                                "filesize": 738495,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1-1536x512.png"
+                            },
+                            "full": {
+                                "file": "plan-paz-1.png",
+                                "width": 1587,
+                                "height": 529,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/plan-paz-1.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21297"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21297"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21291,
+        "date": "2023-08-25T11:58:42",
+        "date_gmt": "2023-08-25T16:58:42",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21291"
+        },
+        "modified": "2023-08-25T11:58:59",
+        "modified_gmt": "2023-08-25T16:58:59",
+        "slug": "colabora365",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/colabora365\/",
+        "title": {
+            "rendered": "Colabora365"
+        },
+        "featured_media": 21292,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/colabora365\/colabora-365\/",
+            "extracto": "Herramientas a las que se tienen acceso mediante la cuenta institucional de la UV",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21291"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21292"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21291"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21292,
+                    "date": "2023-08-25T11:56:31",
+                    "slug": "banner-portales",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/colabora365\/attachment\/banner-portales\/",
+                    "title": {
+                        "rendered": "banner-portales"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1920,
+                        "height": 670,
+                        "file": "2023\/08\/banner-portales.png",
+                        "filesize": 77462,
+                        "sizes": {
+                            "medium": {
+                                "file": "banner-portales-300x105.png",
+                                "width": 300,
+                                "height": 105,
+                                "filesize": 12410,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales-300x105.png"
+                            },
+                            "large": {
+                                "file": "banner-portales-1024x357.png",
+                                "width": 1024,
+                                "height": 357,
+                                "filesize": 62781,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales-1024x357.png"
+                            },
+                            "thumbnail": {
+                                "file": "banner-portales-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 8595,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "banner-portales-768x268.png",
+                                "width": 768,
+                                "height": 268,
+                                "filesize": 43970,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales-768x268.png"
+                            },
+                            "avisos-lg": {
+                                "file": "banner-portales-1600x550.png",
+                                "width": 1600,
+                                "height": 550,
+                                "filesize": 104232,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales-1600x550.png"
+                            },
+                            "avisos-preview": {
+                                "file": "banner-portales-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 3074,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "banner-portales-1536x536.png",
+                                "width": 1536,
+                                "height": 536,
+                                "filesize": 99003,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales-1536x536.png"
+                            },
+                            "full": {
+                                "file": "banner-portales.png",
+                                "width": 1920,
+                                "height": 670,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/banner-portales.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21292"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21292"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21271,
+        "date": "2023-08-22T20:53:36",
+        "date_gmt": "2023-08-23T01:53:36",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21271"
+        },
+        "modified": "2023-08-22T20:54:58",
+        "modified_gmt": "2023-08-23T01:54:58",
+        "slug": "plan-de-cultura-de-paz-y-no-violencia-de-la-uv",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/plan-de-cultura-de-paz-y-no-violencia-de-la-uv\/",
+        "title": {
+            "rendered": "Plan de cultura de paz y no violencia de la UV"
+        },
+        "featured_media": 21273,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/documentos\/files\/2023\/06\/Plan-de-cultura-de-paz-y-no-violencia.pdf",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21271"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21273"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21271"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21273,
+                    "date": "2023-08-22T20:54:55",
+                    "slug": "paz2",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/plan-de-cultura-de-paz-y-no-violencia-de-la-uv\/attachment\/paz2\/",
+                    "title": {
+                        "rendered": "paz2"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1587,
+                        "height": 529,
+                        "file": "2023\/08\/paz2.png",
+                        "filesize": 131160,
+                        "sizes": {
+                            "medium": {
+                                "file": "paz2-300x100.png",
+                                "width": 300,
+                                "height": 100,
+                                "filesize": 10792,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2-300x100.png"
+                            },
+                            "large": {
+                                "file": "paz2-1024x341.png",
+                                "width": 1024,
+                                "height": 341,
+                                "filesize": 67719,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2-1024x341.png"
+                            },
+                            "thumbnail": {
+                                "file": "paz2-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 10167,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "paz2-768x256.png",
+                                "width": 768,
+                                "height": 256,
+                                "filesize": 43205,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2-768x256.png"
+                            },
+                            "avisos-preview": {
+                                "file": "paz2-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 2591,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "paz2-1536x512.png",
+                                "width": 1536,
+                                "height": 512,
+                                "filesize": 129086,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2-1536x512.png"
+                            },
+                            "full": {
+                                "file": "paz2.png",
+                                "width": 1587,
+                                "height": 529,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/paz2.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21273"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21273"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21268,
+        "date": "2023-08-22T16:35:04",
+        "date_gmt": "2023-08-22T21:35:04",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21268"
+        },
+        "modified": "2023-08-22T16:37:47",
+        "modified_gmt": "2023-08-22T21:37:47",
+        "slug": "convocatoria-de-ponencias-simultaneas-congreso-aniei",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-de-ponencias-simultaneas-congreso-aniei\/",
+        "title": {
+            "rendered": "Convocatoria de Ponencias Simult\u00e1neas &#8211; Congreso ANIEI"
+        },
+        "featured_media": 21270,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "http:\/\/www.aniei.org.mx\/ANIEI\/eventos-aniei\/congreso-nacional-e-internacional\/convocatoria-de-ponencias\/",
+            "extracto": "",
+            "imagen_halign": "0",
+            "imagen_valign": "0",
+            "bg_size": "cover",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2.jpg",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21268"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21270"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21268"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21270,
+                    "date": "2023-08-22T16:37:39",
+                    "slug": "banneranieienviotrabajos2",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-de-ponencias-simultaneas-congreso-aniei\/attachment\/banneranieienviotrabajos2\/",
+                    "title": {
+                        "rendered": "bannerANIEIenviotrabajos2"
+                    },
+                    "author": 2422,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/jpeg",
+                    "media_details": {
+                        "width": 1600,
+                        "height": 550,
+                        "file": "2023\/08\/bannerANIEIenviotrabajos2.jpg",
+                        "filesize": 177113,
+                        "sizes": {
+                            "medium": {
+                                "file": "bannerANIEIenviotrabajos2-300x103.jpg",
+                                "width": 300,
+                                "height": 103,
+                                "filesize": 9936,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2-300x103.jpg"
+                            },
+                            "large": {
+                                "file": "bannerANIEIenviotrabajos2-1024x352.jpg",
+                                "width": 1024,
+                                "height": 352,
+                                "filesize": 58360,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2-1024x352.jpg"
+                            },
+                            "thumbnail": {
+                                "file": "bannerANIEIenviotrabajos2-150x150.jpg",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 6155,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2-150x150.jpg"
+                            },
+                            "medium_large": {
+                                "file": "bannerANIEIenviotrabajos2-768x264.jpg",
+                                "width": 768,
+                                "height": 264,
+                                "filesize": 38125,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2-768x264.jpg"
+                            },
+                            "avisos-preview": {
+                                "file": "bannerANIEIenviotrabajos2-83x55.jpg",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 2011,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2-83x55.jpg"
+                            },
+                            "1536x1536": {
+                                "file": "bannerANIEIenviotrabajos2-1536x528.jpg",
+                                "width": 1536,
+                                "height": 528,
+                                "filesize": 100630,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2-1536x528.jpg"
+                            },
+                            "full": {
+                                "file": "bannerANIEIenviotrabajos2.jpg",
+                                "width": 1600,
+                                "height": 550,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2.jpg"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/bannerANIEIenviotrabajos2.jpg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21270"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/2422"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21270"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21225,
+        "date": "2023-08-16T19:08:24",
+        "date_gmt": "2023-08-17T00:08:24",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21225"
+        },
+        "modified": "2023-08-16T20:37:40",
+        "modified_gmt": "2023-08-17T01:37:40",
+        "slug": "becas-jovenes-escribiendo-el-futuro",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/becas-jovenes-escribiendo-el-futuro\/",
+        "title": {
+            "rendered": "Becas J\u00f3venes escribiendo el futuro"
+        },
+        "featured_media": 21224,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/estudiantes\/files\/2023\/08\/anexo-1-proceso-de-solicitudes-para-estudiantes-jef-2023-2.pdf",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/aviso-registro-solicitudes-jef-2023-2.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21225"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21224"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21225"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "code": "rest_forbidden",
+                    "message": "Lo siento, no tienes permisos para hacer eso.",
+                    "data": {
+                        "status": 401
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 20645,
+        "date": "2023-08-15T20:09:46",
+        "date_gmt": "2023-08-16T01:09:46",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=20645"
+        },
+        "modified": "2023-08-18T18:42:35",
+        "modified_gmt": "2023-08-18T23:42:35",
+        "slug": "oferta-educativa-agosto-2023-enero-2024",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/oferta-educativa-agosto-2023-enero-2024\/",
+        "title": {
+            "rendered": "Oferta Educativa Agosto 2023 &#8211; enero 2024"
+        },
+        "featured_media": 20650,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/oferta-educativa-agosto-2022-enero-2024\/",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/20645"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/20650"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=20645"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 20650,
+                    "date": "2023-04-28T20:44:40",
+                    "slug": "oferta23-24-2",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/oferta-educativa-agosto-2023-enero-2024\/attachment\/oferta23-24-2\/",
+                    "title": {
+                        "rendered": "oferta23-24-2"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1600,
+                        "height": 525,
+                        "file": "2023\/04\/oferta23-24-2.png",
+                        "filesize": 108277,
+                        "sizes": {
+                            "medium": {
+                                "file": "oferta23-24-2-300x98.png",
+                                "width": 300,
+                                "height": 98,
+                                "filesize": 15688,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2-300x98.png"
+                            },
+                            "large": {
+                                "file": "oferta23-24-2-1024x336.png",
+                                "width": 1024,
+                                "height": 336,
+                                "filesize": 84204,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2-1024x336.png"
+                            },
+                            "thumbnail": {
+                                "file": "oferta23-24-2-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 11671,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "oferta23-24-2-768x252.png",
+                                "width": 768,
+                                "height": 252,
+                                "filesize": 58475,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2-768x252.png"
+                            },
+                            "avisos-preview": {
+                                "file": "oferta23-24-2-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 3587,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "oferta23-24-2-1536x504.png",
+                                "width": 1536,
+                                "height": 504,
+                                "filesize": 141217,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2-1536x504.png"
+                            },
+                            "full": {
+                                "file": "oferta23-24-2.png",
+                                "width": 1600,
+                                "height": 525,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/04\/oferta23-24-2.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/20650"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=20650"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21153,
+        "date": "2023-08-10T16:53:34",
+        "date_gmt": "2023-08-10T21:53:34",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21153"
+        },
+        "modified": "2023-08-10T16:53:34",
+        "modified_gmt": "2023-08-10T21:53:34",
+        "slug": "inscripciones",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/inscripciones\/",
+        "title": {
+            "rendered": "Inscripciones"
+        },
+        "featured_media": 20059,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/informacion-de-inscripciones-periodo-agosto-2023-enero-2024\/",
+            "extracto": "Agosto 23 - enero 24",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/insc-feb_jul23.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21153"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/20059"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21153"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "code": "rest_forbidden",
+                    "message": "Lo siento, no tienes permisos para hacer eso.",
+                    "data": {
+                        "status": 401
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 21106,
+        "date": "2023-08-07T13:22:08",
+        "date_gmt": "2023-08-07T18:22:08",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=21106"
+        },
+        "modified": "2023-08-07T15:14:26",
+        "modified_gmt": "2023-08-07T20:14:26",
+        "slug": "convocatoria-comepo",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-comepo\/",
+        "title": {
+            "rendered": "Convocatoria COMEPO"
+        },
+        "featured_media": 21107,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/convocatoria-comepo",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": "Si",
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/21106"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21107"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=21106"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 21107,
+                    "date": "2023-08-07T14:21:17",
+                    "slug": "convocatoriacomepo",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/convocatoria-comepo\/attachment\/convocatoriacomepo\/",
+                    "title": {
+                        "rendered": "ConvocatoriaCOMEPO"
+                    },
+                    "author": 1831,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1600,
+                        "height": 550,
+                        "file": "2023\/08\/ConvocatoriaCOMEPO.png",
+                        "filesize": 422752,
+                        "sizes": {
+                            "medium": {
+                                "file": "ConvocatoriaCOMEPO-300x103.png",
+                                "width": 300,
+                                "height": 103,
+                                "filesize": 26764,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO-300x103.png"
+                            },
+                            "large": {
+                                "file": "ConvocatoriaCOMEPO-1024x352.png",
+                                "width": 1024,
+                                "height": 352,
+                                "filesize": 174301,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO-1024x352.png"
+                            },
+                            "thumbnail": {
+                                "file": "ConvocatoriaCOMEPO-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 19522,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "ConvocatoriaCOMEPO-768x264.png",
+                                "width": 768,
+                                "height": 264,
+                                "filesize": 112333,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO-768x264.png"
+                            },
+                            "avisos-preview": {
+                                "file": "ConvocatoriaCOMEPO-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 6105,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "ConvocatoriaCOMEPO-1536x528.png",
+                                "width": 1536,
+                                "height": 528,
+                                "filesize": 343441,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO-1536x528.png"
+                            },
+                            "full": {
+                                "file": "ConvocatoriaCOMEPO.png",
+                                "width": 1600,
+                                "height": 550,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/08\/ConvocatoriaCOMEPO.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/21107"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1831"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=21107"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 20936,
+        "date": "2023-06-22T17:33:46",
+        "date_gmt": "2023-06-22T22:33:46",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=20936"
+        },
+        "modified": "2023-06-22T17:33:46",
+        "modified_gmt": "2023-06-22T22:33:46",
+        "slug": "aviso-para-alta-de-seguro-facultativo",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/aviso-para-alta-de-seguro-facultativo\/",
+        "title": {
+            "rendered": "Aviso para alta de seguro facultativo"
+        },
+        "featured_media": 20935,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/estudiantes\/tramites-escolares\/seguro-facultativo\/",
+            "extracto": "(para atender solicitudes antes de que inicie el periodo vacacional)",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/06\/aviso-seguro-facultativo-3.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/20936"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/20935"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=20936"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "code": "rest_forbidden",
+                    "message": "Lo siento, no tienes permisos para hacer eso.",
+                    "data": {
+                        "status": 401
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 19964,
+        "date": "2023-01-23T11:58:34",
+        "date_gmt": "2023-01-23T17:58:34",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=19964"
+        },
+        "modified": "2023-01-23T11:58:43",
+        "modified_gmt": "2023-01-23T17:58:43",
+        "slug": "lineamiento-establecimiento-de-cuotas-del-comite-pro-mejoras",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/lineamiento-establecimiento-de-cuotas-del-comite-pro-mejoras\/",
+        "title": {
+            "rendered": "Lineamiento establecimiento de cuotas del comit\u00e9 pro-mejoras"
+        },
+        "featured_media": 19965,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/lineamientos-para-el-establecimiento-de-las-cuotas-del-comite-pro-mejoras",
+            "extracto": "",
+            "imagen_halign": "0",
+            "imagen_valign": "0",
+            "bg_size": "cover",
+            "text_hide": "Si",
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras-.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/19964"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/19965"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=19964"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 19965,
+                    "date": "2023-01-23T11:57:44",
+                    "slug": "lineamientos-comite-pro-mejoras",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/lineamiento-establecimiento-de-cuotas-del-comite-pro-mejoras\/attachment\/lineamientos-comite-pro-mejoras\/",
+                    "title": {
+                        "rendered": "lineamientos comite\u0301 pro mejoras"
+                    },
+                    "author": 1831,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 1587,
+                        "height": 529,
+                        "file": "2023\/01\/lineamientos-comite\u0301-pro-mejoras-.png",
+                        "filesize": 60989,
+                        "sizes": {
+                            "medium": {
+                                "file": "lineamientos-comite\u0301-pro-mejoras--300x100.png",
+                                "width": 300,
+                                "height": 100,
+                                "filesize": 11014,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras--300x100.png"
+                            },
+                            "large": {
+                                "file": "lineamientos-comite\u0301-pro-mejoras--1024x341.png",
+                                "width": 1024,
+                                "height": 341,
+                                "filesize": 64855,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras--1024x341.png"
+                            },
+                            "thumbnail": {
+                                "file": "lineamientos-comite\u0301-pro-mejoras--150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 5386,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras--150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "lineamientos-comite\u0301-pro-mejoras--768x256.png",
+                                "width": 768,
+                                "height": 256,
+                                "filesize": 44814,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras--768x256.png"
+                            },
+                            "avisos-preview": {
+                                "file": "lineamientos-comite\u0301-pro-mejoras--83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 2106,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras--83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "lineamientos-comite\u0301-pro-mejoras--1536x512.png",
+                                "width": 1536,
+                                "height": 512,
+                                "filesize": 105128,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras--1536x512.png"
+                            },
+                            "full": {
+                                "file": "lineamientos-comite\u0301-pro-mejoras-.png",
+                                "width": 1587,
+                                "height": 529,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras-.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/lineamientos-comite\u0301-pro-mejoras-.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/19965"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1831"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=19965"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 19757,
+        "date": "2023-01-12T23:25:06",
+        "date_gmt": "2023-01-13T05:25:06",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=19757"
+        },
+        "modified": "2023-01-12T23:25:06",
+        "modified_gmt": "2023-01-13T05:25:06",
+        "slug": "nueva-oferta-educativa-fei",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/nueva-oferta-educativa-fei\/",
+        "title": {
+            "rendered": "Nueva Oferta Educativa FEI"
+        },
+        "featured_media": 19758,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/etiqueta\/plan-de-estudios\/",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/19757"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/19758"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=19757"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 19758,
+                    "date": "2023-01-12T23:24:47",
+                    "slug": "guia-oferta",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/nueva-oferta-educativa-fei\/attachment\/guia-oferta\/",
+                    "title": {
+                        "rendered": "guia-oferta"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 2133,
+                        "height": 733,
+                        "file": "2023\/01\/guia-oferta.png",
+                        "filesize": 261975,
+                        "sizes": {
+                            "medium": {
+                                "file": "guia-oferta-300x103.png",
+                                "width": 300,
+                                "height": 103,
+                                "filesize": 26243,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-300x103.png"
+                            },
+                            "large": {
+                                "file": "guia-oferta-1024x352.png",
+                                "width": 1024,
+                                "height": 352,
+                                "filesize": 143416,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-1024x352.png"
+                            },
+                            "thumbnail": {
+                                "file": "guia-oferta-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 18436,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-150x150.png"
+                            },
+                            "medium_large": {
+                                "file": "guia-oferta-768x264.png",
+                                "width": 768,
+                                "height": 264,
+                                "filesize": 99195,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-768x264.png"
+                            },
+                            "avisos-lg": {
+                                "file": "guia-oferta-1600x550.png",
+                                "width": 1600,
+                                "height": 550,
+                                "filesize": 244052,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-1600x550.png"
+                            },
+                            "avisos-preview": {
+                                "file": "guia-oferta-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 6328,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-83x55.png"
+                            },
+                            "1536x1536": {
+                                "file": "guia-oferta-1536x528.png",
+                                "width": 1536,
+                                "height": 528,
+                                "filesize": 234790,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-1536x528.png"
+                            },
+                            "2048x2048": {
+                                "file": "guia-oferta-2048x704.png",
+                                "width": 2048,
+                                "height": 704,
+                                "filesize": 323518,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta-2048x704.png"
+                            },
+                            "full": {
+                                "file": "guia-oferta.png",
+                                "width": 2133,
+                                "height": 733,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/01\/guia-oferta.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/19758"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=19758"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 12595,
+        "date": "2019-04-08T09:53:54",
+        "date_gmt": "2019-04-08T14:53:54",
+        "guid": {
+            "rendered": "https:\/\/www.uv.mx\/fei\/?post_type=post_type_avisos&#038;p=12595"
+        },
+        "modified": "2023-05-31T15:38:23",
+        "modified_gmt": "2023-05-31T20:38:23",
+        "slug": "avisos",
+        "status": "publish",
+        "type": "post_type_avisos",
+        "link": "https:\/\/www.uv.mx\/fei\/avisos\/avisos\/",
+        "title": {
+            "rendered": "AVISOS"
+        },
+        "featured_media": 20863,
+        "template": "",
+        "meta": {
+            "ventana_nueva": "1",
+            "tipo_url": "2",
+            "url": "https:\/\/www.uv.mx\/fei\/general\/avisos\/",
+            "extracto": "",
+            "imagen_halign": "50",
+            "imagen_valign": "50",
+            "bg_size": "contain",
+            "text_hide": null,
+            "media_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/05\/avisos-fei.png",
+            "tipo_media": null,
+            "video_url": null,
+            "video_pos": null,
+            "video_youtube": null
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos\/12595"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/post_type_avisos"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/post_type_avisos"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/20863"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media?parent=12595"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "wp:featuredmedia": [
+                {
+                    "id": 20863,
+                    "date": "2023-05-31T15:34:28",
+                    "slug": "avisos-fei",
+                    "type": "attachment",
+                    "link": "https:\/\/www.uv.mx\/fei\/avisos\/avisos\/attachment\/avisos-fei\/",
+                    "title": {
+                        "rendered": "avisos-fei"
+                    },
+                    "author": 1415,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "Imagen avisos fei",
+                    "media_type": "image",
+                    "mime_type": "image\/png",
+                    "media_details": {
+                        "width": 370,
+                        "height": 208,
+                        "file": "2023\/05\/avisos-fei.png",
+                        "filesize": 41960,
+                        "sizes": {
+                            "medium": {
+                                "file": "avisos-fei-300x169.png",
+                                "width": 300,
+                                "height": 169,
+                                "filesize": 28544,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/05\/avisos-fei-300x169.png"
+                            },
+                            "thumbnail": {
+                                "file": "avisos-fei-150x150.png",
+                                "width": 150,
+                                "height": 150,
+                                "filesize": 22373,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/05\/avisos-fei-150x150.png"
+                            },
+                            "avisos-preview": {
+                                "file": "avisos-fei-83x55.png",
+                                "width": 83,
+                                "height": 55,
+                                "filesize": 4672,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/05\/avisos-fei-83x55.png"
+                            },
+                            "full": {
+                                "file": "avisos-fei.png",
+                                "width": 370,
+                                "height": 208,
+                                "mime_type": "image\/png",
+                                "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/05\/avisos-fei.png"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "0",
+                            "credit": "",
+                            "camera": "",
+                            "caption": "",
+                            "created_timestamp": "0",
+                            "copyright": "",
+                            "focal_length": "0",
+                            "iso": "0",
+                            "shutter_speed": "0",
+                            "title": "",
+                            "orientation": "0",
+                            "keywords": []
+                        }
+                    },
+                    "source_url": "https:\/\/www.uv.mx\/fei\/files\/2023\/05\/avisos-fei.png",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media\/20863"
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/users\/1415"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/www.uv.mx\/fei\/wp-json\/wp\/v2\/comments?post=20863"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+]

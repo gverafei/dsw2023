@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 1.4rem;
+}
+
+/* El canvas requiere un contenedor relative con ancho y alto definidos */
+.contenedor-grafica {
+    position: relative;
+    height:50vh;
+    width:80vw;
+}
+
+/* Ancho de slider */
+.slider {
+    width:50vw;
+}

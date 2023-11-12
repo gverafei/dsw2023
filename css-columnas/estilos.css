@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.header {
+    background-color: red;
+    height: 80px;
+    width: calc(100% - 20px);
+    text-align: center;
+    line-height: 80px;
+    color: white;
+    padding: 0 10px;
+    border-bottom: 3px dashed black;
+}
+
+.nav {
+    background-color: lightblue;
+    overflow: hidden;
+    border-bottom: 1px solid black;
+}
+
+.nav ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+}
+
+.content {
+    float: left;
+    width: calc(70% - 40px);
+    background-color: green;
+    min-height: 500px;
+    padding: 10px 20px 0 20px;
+}
+
+.article {
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.article:first-child {
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}
+
+.aside {
+    float: left;
+    width: calc(30% - 20px);
+    background-color: orange;
+    min-height: 500px;
+    padding: 10px 10px 0 10px;
+}
+
+.aside input[type=text] {
+    width: 100%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+/* Large */
+@media (max-width: 992px) {
+    .header {
+        font-size: 70%;
+    }
+
+    .aside {
+        font-size: 70%;
+    }
+}
+
+/* Medium */
+@media (max-width: 768px) {
+    #container {        
+        width: calc(100% - 2px);
+    }
+}
+
+/* Small */
+@media (max-width: 576px) {
+    .header {
+        font-size: 70%;
+    }
+
+    .header h1 {
+        max-width: 500px;
+        margin: auto;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .nav {
+        font-size: 90%;
+    }
+
+    .nav ul li {
+        line-height: normal;
+    }
+
+    .content {        
+        width: calc(60% - 40px);
+        font-size: 70%;
+    }
+
+    .aside {
+        width: calc(40% - 20px);
+    }
+
+    .aside h2 {
+        max-width: 100px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+/* Extra small */
+@media (max-width: 360px) {
+    .footer {
+        font-size: 70%;
+    }
+}

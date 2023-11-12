@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gráfica de inversiones</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+    <script defer src="grafica.js"></script>
+</head>
+
+<body>
+    <div class="contenedor">
+        <form action="" class="grafica-form" method="post">
+            <h1>Gráfica de rendimiento de ProInvest Latinoamérica</h1>
+            <p>Seleccione los años para modificar el simulador de inversión.</p>
+            
+            <div class="contenedor-slider">
+                <input type="range" min="1" max="7" value="3" class="slider">
+            </div>
+
+            <div class="contenedor-grafica">
+                <canvas class="grafica"></canvas>
+            </div>            
+        </form>
+    </div>
+</body>
+
+</html>

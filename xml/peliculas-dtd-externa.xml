@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalogo PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "peliculas.dtd">
+<catalogo>
+    <titulo>Catálogo de películas</titulo>
+    <item>
+        <duracion>Largometraje</duracion>
+        <genero>Ciencia Ficción</genero>
+        <year>2017</year>
+        <nombre>Logan</nombre>
+    </item>
+    <item>
+        <duracion>Cortometraje</duracion>
+        <genero>Animación</genero>
+        <year>2016</year>
+        <nombre>A bear story</nombre>
+    </item>
+    <fecha>18 de septiembre de 2023</fecha>
+    <responsable>Guillermo Vera Amaro</responsable>
+</catalogo>

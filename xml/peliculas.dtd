@@ -1,0 +1,9 @@
+<!ELEMENT catalogo (titulo, item+, fecha?, responsable)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT item (duracion*, genero+, year*, nombre+)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT responsable (#PCDATA)>
