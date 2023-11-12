@@ -43,7 +43,7 @@ azure_boton.addEventListener('click', function () {
 async function uploadFile(blob) {
     // Lo vamos a guardar como JPEG
     let file = null;    // Aqui se guarda la imagen en binario
-    let fileName = 'azure.jpg'; // Puede cambiar el nombre a su gusto
+    let fileName = `azure${Date.now()}.jpg`; // Puede cambiar el nombre a su gusto
     // Cambie este valor con la URL de su WebAPI
     const urlAzure = 'https://webapifoto.azurewebsites.net';
     const urlFotoAzure = urlAzure + '/api/foto/'
@@ -63,7 +63,7 @@ async function uploadFile(blob) {
     });
 
     if (response.status == 201) {
-        img_azure.setAttribute("src", urlAzure + "/files/" + fileName + "?" + Date.now());
+        img_azure.setAttribute("src", urlAzure + "/files/" + fileName);
         img_azure.setAttribute("width", 320);
         img_azure.setAttribute("height", 240);
         img_azureurl.innerHTML = urlAzure + "/files/" + fileName;
