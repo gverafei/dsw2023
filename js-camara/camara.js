@@ -61,12 +61,13 @@ async function uploadFile(blob) {
         method: 'POST',
         body: data
     });
-
+    
     if (response.status == 201) {
-        img_azure.setAttribute("src", urlAzure + "/files/" + fileName);
+        const datos = await response.json();    // Obtiene la respuesta del servidor Azure
+        img_azure.setAttribute("src", datos.url);   // Obtenemos la URL de Azure
         img_azure.setAttribute("width", 320);
         img_azure.setAttribute("height", 240);
-        img_azureurl.innerHTML = urlAzure + "/files/" + fileName;
+        img_azureurl.innerHTML = datos.url;
     } else {
         alert('Ocurrió un error al intentar subir la imagen: ' + response.statusText);
     }
