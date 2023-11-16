@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
 button {
     width: 140px;
     padding: 10px;
